@@ -1,4 +1,6 @@
 {
+  "buildCommand": "echo OK",
+  "outputDirectory": ".",
   "rewrites": [
     {
       "source": "/(.*)",
@@ -6,3 +8,4 @@
     }
   ]
 }
+
