@@ -1,0 +1,9 @@
+{
+  "name": "solana-rug-checker",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Static site'",
+    "start": "echo 'Static site'"
+  },
+  "private": true
+}
